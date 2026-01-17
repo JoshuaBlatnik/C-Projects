@@ -1,0 +1,12 @@
+Money Tracker
+Session log
+
+
+Money session for Bob
+Starting balance: $4000.000000
+
+Type        Description               Amount   New balance
+==========================================================
+Income      paycheck                     500          4500
+Expense     Fridge                      1700          2800
+Income      friend                        50          2850
